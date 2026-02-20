@@ -55,7 +55,7 @@ Actualmente profundizando en:
 
 ---
 
-<p align="center"> ![Profile Views](https://komarev.com/ghpvc/?username=hernanwolker-stack&label=Perfil%20Visitado&color=brightgreen&style=flat)
+<p align="center"> ![Profile Views](https://komarev.com/ghpvc/?username=hernanwolker-stack&label=Perfil%20Visitado&color=brightgreen&style=flat) </p>
 
 
 
