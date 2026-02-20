@@ -30,14 +30,14 @@ Actualmente profundizando en:
 
 ---
 
-## 📜 Certificaciones Profesales
+## 📜 Certificaciones Profesionales
 
 <details>
-  <summary>🎓 Data Analytics: Procesamiento, Limpieza y Visualización</summary>
+  <summary>🎓Cloud Computing (AWS)</summary>
 
-  - Institución: Nombre de la institución  
-  - Año: 2024  
-  - Herramientas: Python, Pandas, Power BI  
+  - Institución: Coderhouse  
+  - Año: 2025
+  - 🔗 [Ver certificado](https://pub.coderhouse.com/certificates/0c327cb8-84f2-4e94-9438-1b11c21e626d?v=1) 
 </details>
 
 
