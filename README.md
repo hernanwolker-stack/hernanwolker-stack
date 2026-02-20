@@ -33,27 +33,16 @@ Actualmente profundizando en:
 ## 📜 Certificaciones Profesionales
 
 <details>
-  <summary>🎓Cloud Computing (AWS)</summary>
 
-  - Institución: Coderhouse  
+  <summary><b>🎓 loud Computing (AWS) </b></summary>
+
+<br>
+
+  - Institución: 🏫 Coderhouse  
   - Año: 2025
   - Herramientas: Cloud Fundamentals (AWS – EC2, Networking, IAM)
   - 🔗 [Ver certificado](https://pub.coderhouse.com/certificates/0c327cb8-84f2-4e94-9438-1b11c21e626d?v=1) 
 </details>
 
 
-<details>
-<summary><b>🎓 Data Analytics: Procesamiento, Limpieza y Visualización</b></summary>
 
-<br>
-
-### 🏫 Institución
-FIQ - UNL  
-
-### 🛠 Herramientas
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-📄 [Ver Certificado Oficial](LINK_AQUI)
-
-</details>
