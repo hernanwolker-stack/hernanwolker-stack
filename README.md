@@ -27,3 +27,17 @@ Actualmente profundizando en:
 - Integraciones API
 - Automatización avanzada
 - Arquitectura de workflows
+
+---
+
+## 📜 Certificaciones Profesales
+
+<details>
+  <summary>🎓 Data Analytics: Procesamiento, Limpieza y Visualización</summary>
+
+  - Institución: Nombre de la institución  
+  - Año: 2024  
+  - Herramientas: Python, Pandas, Power BI  
+</details>
+
+
