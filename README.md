@@ -48,19 +48,6 @@ Actualmente profundizando en:
 
 ## 📬 Contacto
 
-[![Gmail]([![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hernanwolker@gmail.com))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hmwolker)
-
-> 🛠 Portfolio Técnico: Repositorio dedicado a la documentación de pipelines ETL, análisis exploratorios y herramientas de visualización.
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=hernanwolker-stack&label=Perfil%20Visitado&color=brightgreen&style=flat) 
-
-
-
-## 📬 Contacto
-
 <p align="center">
   <a href="mailto:hernanwolker@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
