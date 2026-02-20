@@ -53,7 +53,13 @@ Actualmente profundizando en:
 
 > 🛠 Portfolio Técnico: Repositorio dedicado a la documentación de pipelines ETL, análisis exploratorios y herramientas de visualización.
 
-![Profile Views](https://komarev.com/ghpvc/?username=hernanwolker-stack&label=Perfil%20Visitado&color=brightgreen&style=flat)
+---
+
+<p align="center">
+ ![Profile Views](https://komarev.com/ghpvc/?username=hernanwolker-stack&label=Perfil%20Visitado&color=brightgreen&style=flat)
+</p>
+
+
 
 
 
