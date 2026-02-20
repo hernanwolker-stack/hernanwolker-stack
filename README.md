@@ -37,7 +37,9 @@ Actualmente profundizando en:
 
   - Institución: Coderhouse  
   - Año: 2025
+  - Herramientas: Cloud Fundamentals (AWS – EC2, Networking, IAM)
   - 🔗 [Ver certificado](https://pub.coderhouse.com/certificates/0c327cb8-84f2-4e94-9438-1b11c21e626d?v=1) 
 </details>
+
 
 
