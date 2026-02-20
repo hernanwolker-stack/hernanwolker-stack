@@ -34,7 +34,7 @@ Actualmente profundizando en:
 
 <details>
 
-  <summary><b>🎓 loud Computing (AWS) </b></summary>
+  <summary><b>🎓 Cloud Computing (AWS) </b></summary>
 
 <br>
 
