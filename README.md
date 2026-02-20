@@ -44,5 +44,14 @@ Actualmente profundizando en:
   - 🔗 [Ver certificado](https://pub.coderhouse.com/certificates/0c327cb8-84f2-4e94-9438-1b11c21e626d?v=1) 
 </details>
 
+## 📬 Contacto
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO)
+
+> 🛠 Portfolio Técnico: Repositorio dedicado a la documentación de pipelines ETL, análisis exploratorios y herramientas de visualización aplicadas al sector ambiental.
+
+![Profile Views](https://komarev.com/ghpvc/?username=hernanwolker-stack&label=Perfil%20Visitado&color=brightgreen&style=flat)
+
 
 
