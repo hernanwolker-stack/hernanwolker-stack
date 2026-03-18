@@ -15,6 +15,7 @@ Actualmente formándome en automatización de procesos (AI Automation). Orientad
 - APIs REST
 - Webhooks
 - Telegram Bot API
+- LLM's
 - SMTP / Email Automation
 
 ## 📌 Proyecto destacado
