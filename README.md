@@ -18,12 +18,12 @@ Actualmente formándome en automatización de procesos (AI Automation). Orientad
 - LLM's
 - SMTP / Email Automation
 
-## 📌 Proyecto destacado
+## 📌 Proyecto destacados
 🔗 Sistema de alerta automática de temperatura en Buenos Aires  
 👉 https://github.com/hernanwolker-stack/n8n-alerta-clima
 
 🔗 Bot de telegram automatizado con n8n y LLM. Respuestas automaticas sobre estado del clima.
-👉https://github.com/hernanwolker-stack/n8n-automatizacion-weather-llm.git
+👉 https://github.com/hernanwolker-stack/n8n-automatizacion-weather-llm.git
 
 ---
 
