@@ -21,7 +21,6 @@ Actualmente formándome en automatización de procesos (AI Automation). Orientad
 ## 📌 Proyecto destacado
 🔗 Sistema de alerta automática de temperatura en Buenos Aires  
 👉 https://github.com/hernanwolker-stack/n8n-alerta-clima
-👉 https://github.com/hernanwolker-stack/n8n-automatizacion-weather-llm.git
 
 ---
 
